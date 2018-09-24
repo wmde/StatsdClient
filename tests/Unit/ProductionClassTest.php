@@ -9,8 +9,6 @@ use WMDE\Statsd\ProductionClass;
 
 /**
  * @covers \WMDE\Statsd\ProductionClass
- *
- * @licence GNU GPL v2+
  */
 class ProductionClassTest extends TestCase {
 

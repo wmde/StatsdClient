@@ -1,7 +1,7 @@
 {
 	"name": "wmde/statsd-client",
-	"license": "GPL-2.0-or-later",
-	"description": "",
+	"license": "BSD-3-Clause",
+	"description": "Client for etsy/statsd. Adapts into statsd-php-client via well designed interfaces",
 	"require": {
 		"php": ">=5.6"
 	},
