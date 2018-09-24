@@ -2,13 +2,13 @@
 
 declare( strict_types = 1 );
 
-namespace Such\NewProject\Tests\Unit;
+namespace WMDE\Statsd\Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
-use Such\NewProject\ProductionClass;
+use WMDE\Statsd\ProductionClass;
 
 /**
- * @covers \Such\NewProject\ProductionClass
+ * @covers \WMDE\Statsd\ProductionClass
  *
  * @licence GNU GPL v2+
  */

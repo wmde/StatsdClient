@@ -2,14 +2,14 @@
 
 declare( strict_types = 1 );
 
-namespace Such\NewProject;
+namespace WMDE\Statsd;
 
 /**
  * @license GNU GPL v2+
  */
 class ProductionClass {
 
-	public static function getTrue(): bool {
+	public static function getTrue() {
 		return true;
 	}
 
