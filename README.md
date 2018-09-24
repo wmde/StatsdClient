@@ -4,7 +4,7 @@
 
 Client for etsy/statsd. Adapts into statsd-php-client via well designed interfaces. PHP 5.6+
 
-This library uses [liuggio/statsd-php-client](https://github.com/liuggio/statsd-php-client) for the hard.
+This library uses [liuggio/statsd-php-client](https://github.com/liuggio/statsd-php-client) for the hard work.
 It exposes the functionality via well segregated interfaces, hiding the mess that is `StatsdDataFactoryInterface`.
 
 ## Installation
